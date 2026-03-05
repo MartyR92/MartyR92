@@ -100,10 +100,11 @@ This isn't a preference. It's what holds up when no one is watching.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyR92&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=1A5F7A&amp;text_color=c9d1d9&amp;border_color=21262d&amp;langs_count=6" />
 </p>
 
-<!-- Snake requires GitHub Action — see setup note at bottom -->
+<!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MartyR92/MartyR92/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://github.com/MartyR92/MartyR92/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartyR92/MartyR92/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartyR92/MartyR92/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MartyR92/MartyR92/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
@@ -128,38 +129,3 @@ Full A.R.E. case study (architecture, metrics, stack) available on request.*
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1A5F7A&amp;height=80&amp;section=footer" width="100%"/>
-
----
-
-<!--
-SNAKE ANIMATION SETUP (einmalig, ~5 Minuten):
-
-1. Im Repo MartyR92/MartyR92 → New file → .github/workflows/snake.yml
-
-Inhalt:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: MartyR92
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-2. Nach dem Commit: Actions → "Generate Snake" → Run workflow (manuell triggern)
-3. Ab dann läuft es täglich automatisch.
--->
