@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1A5F7A&amp;height=110&amp;section=header&amp;text=Martin+Reiter&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=65&amp;desc=Systems+Architect+%C2%B7+Rust+%26+Python+%C2%B7+Sovereign+AI&amp;descSize=16&amp;descAlignY=85&amp;descColor=c8dde6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5F7A&height=110&section=header&text=Martin+Reiter&fontSize=38&fontColor=ffffff&fontAlignY=65&desc=Systems+Architect+·+Rust+%26+Python+·+Sovereign+AI&descSize=16&descAlignY=85&descColor=c8dde6" width="100%"/>
 
 <!-- Badges -->
 <p align="left">
@@ -128,4 +128,4 @@ This isn't a preference. It's what holds up when no one is watching.
 Full A.R.E. case study (architecture, metrics, stack) available on request.*
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1A5F7A&amp;height=80&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5F7A&height=80&section=footer" width="100%"/>
