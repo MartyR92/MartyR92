@@ -97,7 +97,7 @@ This isn't a preference. It's what holds up when no one is watching.
 
 <p align="left">
   <img height="160" src="https://github-stats-extended.vercel.app/api?username=MartyR92&show_icons=true&theme=dark&bg_color=0d1117&title_color=1A5F7A&icon_color=0E8A5F&text_color=c9d1d9&border_color=21262d&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MartyR92&layout=compact&theme=dark&bg_color=0d1117&title_color=1A5F7A&text_color=c9d1d9&border_color=21262d&langs_count=6" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MartyR92&layout=compact&theme=dark&bg_color=0d1117&title_color=1A5F7A&text_color=c9d1d9&border_color=21262d&langs_count=6&hide=html,javascript,css&v=4" />
 </p>
 
 <!-- Snake Animation -->
