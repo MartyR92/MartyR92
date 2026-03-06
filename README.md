@@ -96,8 +96,8 @@ This isn't a preference. It's what holds up when no one is watching.
 ## GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MartyR92&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=1A5F7A&amp;icon_color=0E8A5F&amp;text_color=c9d1d9&amp;border_color=21262d&amp;include_all_commits=true&amp;count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyR92&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=1A5F7A&amp;text_color=c9d1d9&amp;border_color=21262d&amp;langs_count=6" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=MartyR92&show_icons=true&theme=dark&bg_color=0d1117&title_color=1A5F7A&icon_color=0E8A5F&text_color=c9d1d9&border_color=21262d&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MartyR92&layout=compact&theme=dark&bg_color=0d1117&title_color=1A5F7A&text_color=c9d1d9&border_color=21262d&langs_count=6" />
 </p>
 
 <!-- Snake Animation -->
